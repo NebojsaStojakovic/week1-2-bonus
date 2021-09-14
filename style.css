@@ -127,7 +127,6 @@ img {
 .testimonial__5 p {
     margin-bottom: 24px;
 }
-
 @media screen and (min-width: 768px) {
     .testimonials {
         grid-template-columns: repeat(2, 1fr);
@@ -158,5 +157,5 @@ img {
     }
     .testimonial__1 .quote {
         right: 79px;
-}
+    }
 }
